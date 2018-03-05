@@ -1,0 +1,49 @@
+.bottom-border {
+    margin-bottom: 15px;
+}
+
+.top-border {
+    margin-top: .5rem;
+}
+
+.p-3 {
+    padding: 1rem;
+  }
+
+.p-3_input {
+    padding-right: 1rem;
+    box-shadow: 0 1px 15px 1px rgba(39,39,39,.1);
+}
+
+.p-3_label {
+    padding-right: 1rem;
+    max-width: 75px;
+}
+
+.p-3_item {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+
+.p-3_item_group {
+    padding-left: 1rem;
+}
+
+.p-3_item:hover {
+    cursor: pointer;
+    background-color: #dc3545;
+    color: white;
+}
+
+.container-video {
+    width: 600px;
+    height: 600px;
+    padding: 10px;
+}
+.media-object img {
+    max-width: 25px;
+}
+.video_item_padding {
+    padding-right: 0px;
+}
